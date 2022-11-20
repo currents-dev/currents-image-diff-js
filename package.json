@@ -1,0 +1,13 @@
+{
+  "name": "currents-image-diff-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Goldis <agoldis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@currents/cli": "^3.0.0",
+    "cypress": "^11.1.0",
+    "cypress-image-diff-js": "^1.22.0",
+    "http-server": "^14.1.1"
+  }
+}
