@@ -2,3 +2,4 @@ cypress-visual-report/*
 cypress-visual-screenshots/comparison
 cypress-visual-screenshots/diff
 node_modules
+cypress/screenshots
