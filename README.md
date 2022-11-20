@@ -14,7 +14,10 @@ Create an account on Currents dashboard and run the tests as usual
 npx currents run --parallel --record --key <your_key> --ci-build-id `date +%s`
 ```
 
-When the run is finished, it will upload the images to Currents Dashboard. You can now browse the screenshot of the visual regression diff images.
+When the run is finished, it will upload the images to Currents Dashboard. You can now browse the screenshot of the visual regression diff images:
+
+<img width="1531" alt="cypress - visual image diff@2x" src="https://user-images.githubusercontent.com/1637928/202931113-3abb0bb4-2396-489d-846c-4ef31fce2950.png">
+
 
 ### Implementation
 
